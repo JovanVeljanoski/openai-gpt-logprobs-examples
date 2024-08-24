@@ -46,5 +46,5 @@ pip install -r requirements.txt
 Launch the app
 
 ```bash
-solara run main.py
+solara run app.py
 ```
