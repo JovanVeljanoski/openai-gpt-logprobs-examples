@@ -1,5 +1,5 @@
 matplotlib==3.8.4
-numpy=1.26.4
+numpy==1.26.4
 openai==1.41.1
 pandas==2.2.2
 solara==1.32.2
