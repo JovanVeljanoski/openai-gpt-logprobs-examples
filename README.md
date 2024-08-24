@@ -1,3 +1,14 @@
+---
+title: openai-gpt-logprobs-examples
+emoji: 🚀
+colorFrom: red
+colorTo: green
+sdk: docker
+pinned: false
+license: mit
+app_port: 7860
+---
+
 ### Simple examples of using `logprobs` from outputs of OpenAI GPT models
 
 This repo contains some simple examples of how to use, display and use `logprobs`
@@ -12,6 +23,10 @@ It runs as a simple [solara](https://solara.dev/) web-application with 3 tabs:
 
 3. A simple RAG example. It combines the elements of both examples above.
 
+### Links
+
+- [GitHub repo](https://github.com/JovanVeljanoski/openai-gpt-logprobs-examples)
+- [Huggingface space](https://huggingface.co/spaces/Jovan31/openai-gpt-logprobs-examples)
 
 
 ### To install / use locally
